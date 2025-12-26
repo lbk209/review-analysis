@@ -1,0 +1,363 @@
+entity,entity_cluster,entity_tag,n_mentions,n_reviews,mean_sentiment,median_sentiment
+BHC,cluster_43,LOC,2,1,5.0,5.0
+명성왕족발,cluster_13,LOC,2,1,5.0,5.0
+고추바사삭,cluster_1,entity_unknown,1,1,5.0,5.0
+광고,cluster_1,entity_unknown,1,1,5.0,5.0
+구글맵,cluster_31,entity_unknown,1,1,5.0,5.0
+굽네치킨,cluster_1,entity_unknown,1,1,5.0,5.0
+깐풍치킨중,cluster_1,entity_unknown,1,1,5.0,5.0
+민생지원금,cluster_27,entity_unknown,1,1,5.0,5.0
+서현,cluster_1,LOC,1,1,5.0,5.0
+소스 느낌,cluster_18,entity_unknown,1,1,5.0,5.0
+자담치킨,cluster_1,entity_unknown,1,1,5.0,5.0
+족발,cluster_1,entity_unknown,1,1,5.0,5.0
+좋아하,cluster_1,entity_unknown,1,1,5.0,5.0
+좋아하 고추바사삭,cluster_1,entity_unknown,1,1,5.0,5.0
+지시대로,cluster_1,entity_unknown,1,1,5.0,5.0
+치킨집,cluster_15,entity_unknown,1,1,5.0,5.0
+카카오맵,cluster_1,entity_unknown,1,1,5.0,5.0
+켰더니,cluster_19,entity_unknown,1,1,5.0,5.0
+켰더니 광고,cluster_1,entity_unknown,1,1,5.0,5.0
+포장해,cluster_1,entity_unknown,1,1,5.0,5.0
+포장해 먹었다,cluster_1,entity_unknown,1,1,5.0,5.0
+푸라닭 유명 쉐프와,cluster_15,entity_unknown,1,1,5.0,5.0
+한국,cluster_2,LOC,1,1,5.0,5.0
+한동안,cluster_0,entity_unknown,1,1,5.0,5.0
+한동안 집앞 자담치킨,cluster_17,entity_unknown,1,1,5.0,5.0
+할머니,cluster_25,entity_unknown,1,1,5.0,5.0
+할머니 족발,cluster_25,entity_unknown,1,1,5.0,5.0
+현대시장 명성왕족발,cluster_38,entity_unknown,1,1,5.0,5.0
+성남,cluster_2,LOC,3,3,4.666666666666667,5.0
+비비큐,cluster_1,ORG,2,1,4.0,4.0
+가는데,cluster_1,entity_unknown,1,1,4.0,4.0
+가는데 기사,cluster_1,entity_unknown,1,1,4.0,4.0
+간장,cluster_7,entity_unknown,1,1,4.0,4.0
+간장 먹으면,cluster_1,entity_unknown,1,1,4.0,4.0
+간장 먹으면 심심하고,cluster_1,entity_unknown,1,1,4.0,4.0
+교촌치킨,cluster_17,entity_unknown,1,1,4.0,4.0
+기사,cluster_4,entity_unknown,1,1,4.0,4.0
+깐풍치킨,cluster_1,entity_unknown,1,1,4.0,4.0
+레드,cluster_40,entity_unknown,1,1,4.0,4.0
+레드 먹으면 자극적이면,cluster_1,entity_unknown,1,1,4.0,4.0
+마라치킨,cluster_1,entity_unknown,1,1,4.0,4.0
+맵소디,cluster_1,entity_unknown,1,1,4.0,4.0
+보면서,cluster_1,entity_unknown,1,1,4.0,4.0
+성남 51번,cluster_2,entity_unknown,1,1,4.0,4.0
+쉐프와,cluster_1,entity_unknown,1,1,4.0,4.0
+시설,cluster_30,entity_unknown,1,1,4.0,4.0
+심심하고 레드 먹으면,cluster_1,entity_unknown,1,1,4.0,4.0
+양념통닭,cluster_15,entity_unknown,1,1,4.0,4.0
+온누리상품권,cluster_1,entity_unknown,1,1,4.0,4.0
+처가집,cluster_17,entity_unknown,1,1,4.0,4.0
+처가집 양념통닭,cluster_15,entity_unknown,1,1,4.0,4.0
+치킨,cluster_15,entity_unknown,1,1,4.0,4.0
+푸라닭,cluster_15,entity_unknown,1,1,4.0,4.0
+핸드폰,cluster_34,entity_unknown,1,1,4.0,4.0
+혹시나,cluster_1,entity_unknown,1,1,4.0,4.0
+51번 버스,cluster_9,entity_unknown,2,2,3.5,3.5
+땡겨요,cluster_1,entity_unknown,2,2,3.5,3.5
+할인,cluster_16,entity_unknown,2,2,3.0,3.0
+가격,cluster_12,entity_unknown,1,1,3.0,3.0
+간만,cluster_1,entity_unknown,1,1,3.0,3.0
+감흥,cluster_1,entity_unknown,1,1,3.0,3.0
+거무죽죽하니 신선 관리,cluster_1,entity_unknown,1,1,3.0,3.0
+귀한족발,cluster_1,entity_unknown,1,1,3.0,3.0
+귀한족발 족발 배달시켰는데,cluster_1,entity_unknown,1,1,3.0,3.0
+근처,cluster_1,entity_unknown,1,1,3.0,3.0
+기억나지,cluster_1,entity_unknown,1,1,3.0,3.0
+길건너,cluster_1,entity_unknown,1,1,3.0,3.0
+노랑통닭,cluster_15,entity_unknown,1,1,3.0,3.0
+느껴진건,cluster_1,entity_unknown,1,1,3.0,3.0
+다음,cluster_37,entity_unknown,1,1,3.0,3.0
+달달한,cluster_1,entity_unknown,1,1,3.0,3.0
+도서관 근처,cluster_23,entity_unknown,1,1,3.0,3.0
+마라향,cluster_1,entity_unknown,1,1,3.0,3.0
+막국수,cluster_1,entity_unknown,1,1,3.0,3.0
+막국수 반찬,cluster_3,entity_unknown,1,1,3.0,3.0
+막국수 반찬 있는건,cluster_1,entity_unknown,1,1,3.0,3.0
+맞은데,cluster_1,entity_unknown,1,1,3.0,3.0
+먹었는데 감흥,cluster_1,entity_unknown,1,1,3.0,3.0
+먹으면,cluster_1,entity_unknown,1,1,3.0,3.0
+먹으면 심심하고,cluster_1,entity_unknown,1,1,3.0,3.0
+먹으면 심심하고 레드,cluster_1,entity_unknown,1,1,3.0,3.0
+먹으면 자극적이면 이렇게,cluster_1,entity_unknown,1,1,3.0,3.0
+명성왕,cluster_13,ORG,1,1,3.0,3.0
+명성왕족발이랑,cluster_1,entity_unknown,1,1,3.0,3.0
+모바일,cluster_34,entity_unknown,1,1,3.0,3.0
+모바일 티머니,cluster_34,entity_unknown,1,1,3.0,3.0
+뭐라나,cluster_1,entity_unknown,1,1,3.0,3.0
+바삭한,cluster_1,entity_unknown,1,1,3.0,3.0
+반찬,cluster_3,entity_unknown,1,1,3.0,3.0
+반찬 있는건,cluster_1,entity_unknown,1,1,3.0,3.0
+반찬 있는건 좋지,cluster_1,entity_unknown,1,1,3.0,3.0
+배달시켰는데,cluster_1,entity_unknown,1,1,3.0,3.0
+배달시켰는데 막국수,cluster_1,entity_unknown,1,1,3.0,3.0
+배달시켰는데 막국수 반찬,cluster_1,entity_unknown,1,1,3.0,3.0
+배달하기,cluster_3,entity_unknown,1,1,3.0,3.0
+버스,cluster_9,entity_unknown,1,1,3.0,3.0
+비교해봐야겠다,cluster_1,entity_unknown,1,1,3.0,3.0
+비비큐 맵소디,cluster_11,entity_unknown,1,1,3.0,3.0
+비싸지,cluster_1,entity_unknown,1,1,3.0,3.0
+뼈이상,cluster_39,entity_unknown,1,1,3.0,3.0
+설치해야,cluster_1,entity_unknown,1,1,3.0,3.0
+설치해야 이용할수,cluster_1,entity_unknown,1,1,3.0,3.0
+설치해야 이용할수 있다고,cluster_1,entity_unknown,1,1,3.0,3.0
+순살,cluster_4,entity_unknown,1,1,3.0,3.0
+심심하고,cluster_1,entity_unknown,1,1,3.0,3.0
+심심하고 레드,cluster_40,entity_unknown,1,1,3.0,3.0
+쏘마치,cluster_1,entity_unknown,1,1,3.0,3.0
+안쪽에서,cluster_1,entity_unknown,1,1,3.0,3.0
+않지,cluster_1,entity_unknown,1,1,3.0,3.0
+없는것,cluster_32,entity_unknown,1,1,3.0,3.0
+없었는데,cluster_1,entity_unknown,1,1,3.0,3.0
+여러번,cluster_8,entity_unknown,1,1,3.0,3.0
+여러번 데워 먹었는데,cluster_1,entity_unknown,1,1,3.0,3.0
+왜그러나,cluster_1,entity_unknown,1,1,3.0,3.0
+우회전할때,cluster_1,entity_unknown,1,1,3.0,3.0
+의미,cluster_18,entity_unknown,1,1,3.0,3.0
+이러면,cluster_1,entity_unknown,1,1,3.0,3.0
+이렇게,cluster_1,entity_unknown,1,1,3.0,3.0
+이용할수,cluster_1,entity_unknown,1,1,3.0,3.0
+이용할수 있다고,cluster_1,entity_unknown,1,1,3.0,3.0
+이제,cluster_1,entity_unknown,1,1,3.0,3.0
+있는건,cluster_1,entity_unknown,1,1,3.0,3.0
+있는건 좋지,cluster_1,entity_unknown,1,1,3.0,3.0
+있다고,cluster_1,entity_unknown,1,1,3.0,3.0
+자극적이면,cluster_1,entity_unknown,1,1,3.0,3.0
+자극적이면 이렇게,cluster_1,entity_unknown,1,1,3.0,3.0
+잡으라고 했더래나 뭐라나,cluster_1,entity_unknown,1,1,3.0,3.0
+저번,cluster_1,entity_unknown,1,1,3.0,3.0
+접속해,cluster_1,entity_unknown,1,1,3.0,3.0
+정동마트 종종 바나나,cluster_1,entity_unknown,1,1,3.0,3.0
+족발맛,cluster_1,entity_unknown,1,1,3.0,3.0
+족발맛 아쉽다,cluster_1,entity_unknown,1,1,3.0,3.0
+좋았지,cluster_1,entity_unknown,1,1,3.0,3.0
+좋지,cluster_1,entity_unknown,1,1,3.0,3.0
+좋지 정작 족발맛,cluster_1,entity_unknown,1,1,3.0,3.0
+찾는데,cluster_1,entity_unknown,1,1,3.0,3.0
+찾는데 저번,cluster_1,entity_unknown,1,1,3.0,3.0
+천원,cluster_1,entity_unknown,1,1,3.0,3.0
+추가한,cluster_1,entity_unknown,1,1,3.0,3.0
+티머니,cluster_1,entity_unknown,1,1,3.0,3.0
+티머니매니저,cluster_1,entity_unknown,1,1,3.0,3.0
+편리할텐데,cluster_1,entity_unknown,1,1,3.0,3.0
+피해서,cluster_1,entity_unknown,1,1,3.0,3.0
+기다리는데,cluster_1,entity_unknown,2,2,2.0,2.0
+발뒤꿈치,cluster_5,entity_unknown,2,2,2.0,2.0
+식감,cluster_3,entity_unknown,2,2,2.0,2.0
+여전히,cluster_1,entity_unknown,2,1,2.0,2.0
+정자동,cluster_1,LOC,2,1,2.0,2.0
+가격 비싸지,cluster_1,entity_unknown,1,1,2.0,2.0
+가는데 기사 핸드폰,cluster_34,entity_unknown,1,1,2.0,2.0
+간만 접속해,cluster_1,entity_unknown,1,1,2.0,2.0
+감자전 오징어부추전,cluster_1,entity_unknown,1,1,2.0,2.0
+갔다 얼떨결,cluster_1,entity_unknown,1,1,2.0,2.0
+갔다 얼떨결 비급여,cluster_1,entity_unknown,1,1,2.0,2.0
+거기서,cluster_1,entity_unknown,1,1,2.0,2.0
+거무죽죽하니,cluster_1,entity_unknown,1,1,2.0,2.0
+걸린다고,cluster_1,entity_unknown,1,1,2.0,2.0
+관리,cluster_1,entity_unknown,1,1,2.0,2.0
+광고 나온다,cluster_1,entity_unknown,1,1,2.0,2.0
+구운건,cluster_1,entity_unknown,1,1,2.0,2.0
+귀찮더라 전집,cluster_1,entity_unknown,1,1,2.0,2.0
+귀찮아서,cluster_1,entity_unknown,1,1,2.0,2.0
+귀찮아서 환불안하고,cluster_1,entity_unknown,1,1,2.0,2.0
+급할땐,cluster_1,entity_unknown,1,1,2.0,2.0
+기사 핸드폰,cluster_34,entity_unknown,1,1,2.0,2.0
+기사 핸드폰 보면서,cluster_34,entity_unknown,1,1,2.0,2.0
+노랑통닭 순살,cluster_15,entity_unknown,1,1,2.0,2.0
+노랑통닭 순살 가격,cluster_15,entity_unknown,1,1,2.0,2.0
+느낌,cluster_18,entity_unknown,1,1,2.0,2.0
+니자 발뒤꿈치,cluster_5,entity_unknown,1,1,2.0,2.0
+다녔지,cluster_1,entity_unknown,1,1,2.0,2.0
+다행히,cluster_1,entity_unknown,1,1,2.0,2.0
+대부분,cluster_8,entity_unknown,1,1,2.0,2.0
+대부분 거무죽죽하니,cluster_1,entity_unknown,1,1,2.0,2.0
+대부분 거무죽죽하니 신선,cluster_1,entity_unknown,1,1,2.0,2.0
+마트 풀무원,cluster_1,entity_unknown,1,1,2.0,2.0
+마트 풀무원 감자전 오징어부추전,cluster_1,entity_unknown,1,1,2.0,2.0
+만석닭강정,cluster_15,entity_unknown,1,1,2.0,2.0
+맛이야,cluster_1,entity_unknown,1,1,2.0,2.0
+맞은데 피해서,cluster_1,entity_unknown,1,1,2.0,2.0
+며칠 니자,cluster_20,entity_unknown,1,1,2.0,2.0
+며칠 니자 발뒤꿈치,cluster_20,entity_unknown,1,1,2.0,2.0
+몇초마저,cluster_0,entity_unknown,1,1,2.0,2.0
+몇초일지라,cluster_1,entity_unknown,1,1,2.0,2.0
+바나나,cluster_10,entity_unknown,1,1,2.0,2.0
+바나나 세일,cluster_10,entity_unknown,1,1,2.0,2.0
+박스,cluster_36,entity_unknown,1,1,2.0,2.0
+발가락 아파서,cluster_5,entity_unknown,1,1,2.0,2.0
+발뒤꿈치 아파 정형외과,cluster_1,entity_unknown,1,1,2.0,2.0
+배달,cluster_3,entity_unknown,1,1,2.0,2.0
+병이라기,cluster_1,entity_unknown,1,1,2.0,2.0
+사람들,cluster_1,entity_unknown,1,1,2.0,2.0
+세일,cluster_16,entity_unknown,1,1,2.0,2.0
+세일하길래,cluster_1,entity_unknown,1,1,2.0,2.0
+셋트로,cluster_1,entity_unknown,1,1,2.0,2.0
+소스,cluster_1,entity_unknown,1,1,2.0,2.0
+순살 가격,cluster_12,entity_unknown,1,1,2.0,2.0
+신선,cluster_1,entity_unknown,1,1,2.0,2.0
+아킬레스건염,cluster_1,entity_unknown,1,1,2.0,2.0
+아킬레스건염 병이라기,cluster_1,entity_unknown,1,1,2.0,2.0
+양념통닭 마라치킨,cluster_15,entity_unknown,1,1,2.0,2.0
+얼떨결 비급여,cluster_3,entity_unknown,1,1,2.0,2.0
+에어프라이로,cluster_1,entity_unknown,1,1,2.0,2.0
+영수증엔,cluster_1,entity_unknown,1,1,2.0,2.0
+영수증엔 여전히,cluster_1,entity_unknown,1,1,2.0,2.0
+예전,cluster_1,entity_unknown,1,1,2.0,2.0
+정형외과 갔다 얼떨결,cluster_1,entity_unknown,1,1,2.0,2.0
+정형외과 찾는데,cluster_1,entity_unknown,1,1,2.0,2.0
+정형외과 찾는데 저번,cluster_1,entity_unknown,1,1,2.0,2.0
+정형외과 찾아갔다,cluster_1,entity_unknown,1,1,2.0,2.0
+주문했더니,cluster_1,entity_unknown,1,1,2.0,2.0
+주문했더니 배달,cluster_1,entity_unknown,1,1,2.0,2.0
+주사,cluster_1,entity_unknown,1,1,2.0,2.0
+처가집 양념통닭 마라치킨,cluster_15,entity_unknown,1,1,2.0,2.0
+카카오맵 켰더니,cluster_1,entity_unknown,1,1,2.0,2.0
+카카오맵 켰더니 광고,cluster_1,entity_unknown,1,1,2.0,2.0
+켰더니 광고 나온다,cluster_1,entity_unknown,1,1,2.0,2.0
+티머니매니저 설치해야,cluster_1,entity_unknown,1,1,2.0,2.0
+풀무원 감자전 오징어부추전,cluster_1,entity_unknown,1,1,2.0,2.0
+하는지,cluster_1,entity_unknown,1,1,2.0,2.0
+한시간,cluster_0,entity_unknown,1,1,2.0,2.0
+한시간 이상 걸린다고,cluster_1,entity_unknown,1,1,2.0,2.0
+핸드폰 보면서,cluster_34,entity_unknown,1,1,2.0,2.0
+환불안하고,cluster_1,entity_unknown,1,1,2.0,2.0
+후라인팬,cluster_1,entity_unknown,1,1,2.0,2.0
+후라인팬 구운건,cluster_1,entity_unknown,1,1,2.0,2.0
+흥건하니,cluster_1,entity_unknown,1,1,2.0,2.0
+먹었는데,cluster_1,entity_unknown,3,3,1.6666666666666667,1.0
+정형외과,cluster_1,entity_unknown,3,3,1.6666666666666667,1.0
+니자,cluster_1,PER,2,1,1.0,1.0
+멕시칸,cluster_26,LOC,2,1,1.0,1.0
+없다고,cluster_1,entity_unknown,2,1,1.0,1.0
+할인한다기,cluster_16,entity_unknown,2,2,1.0,1.0
+가서,cluster_1,entity_unknown,1,1,1.0,1.0
+갔더니,cluster_1,entity_unknown,1,1,1.0,1.0
+걸리지 않는데 이상해,cluster_1,entity_unknown,1,1,1.0,1.0
+결재하고,cluster_1,entity_unknown,1,1,1.0,1.0
+결재하고 며칠뒤,cluster_1,entity_unknown,1,1,1.0,1.0
+결재하고 며칠뒤 배송,cluster_1,entity_unknown,1,1,1.0,1.0
+과자같,cluster_1,entity_unknown,1,1,1.0,1.0
+구경하고,cluster_1,entity_unknown,1,1,1.0,1.0
+구경하고 돌아가,cluster_14,entity_unknown,1,1,1.0,1.0
+귀찮더라,cluster_1,entity_unknown,1,1,1.0,1.0
+그렇게,cluster_1,entity_unknown,1,1,1.0,1.0
+근처 51번,cluster_1,entity_unknown,1,1,1.0,1.0
+나는것,cluster_19,entity_unknown,1,1,1.0,1.0
+냄새,cluster_29,entity_unknown,1,1,1.0,1.0
+놓치지,cluster_1,entity_unknown,1,1,1.0,1.0
+놓치지 않으려는지,cluster_1,entity_unknown,1,1,1.0,1.0
+놓치지 않으려는지 버스들,cluster_42,entity_unknown,1,1,1.0,1.0
+다음 명성왕족발이랑,cluster_1,entity_unknown,1,1,1.0,1.0
+다음에,cluster_1,entity_unknown,1,1,1.0,1.0
+닭강정,cluster_15,entity_unknown,1,1,1.0,1.0
+닭강정 사는걸,cluster_15,entity_unknown,1,1,1.0,1.0
+닭고기,cluster_15,entity_unknown,1,1,1.0,1.0
+당일,cluster_1,entity_unknown,1,1,1.0,1.0
+돌아가,cluster_14,entity_unknown,1,1,1.0,1.0
+돌아가 닭강정,cluster_15,entity_unknown,1,1,1.0,1.0
+돌아가며,cluster_1,entity_unknown,1,1,1.0,1.0
+땡겨요 세일하길래,cluster_1,entity_unknown,1,1,1.0,1.0
+땡겨요 할인,cluster_16,entity_unknown,1,1,1.0,1.0
+만원짜리,cluster_1,entity_unknown,1,1,1.0,1.0
+맞춰,cluster_1,entity_unknown,1,1,1.0,1.0
+맵쏘,cluster_1,entity_unknown,1,1,1.0,1.0
+먹어야,cluster_1,entity_unknown,1,1,1.0,1.0
+멕시칸 치킨 할인한다기,cluster_33,entity_unknown,1,1,1.0,1.0
+며칠,cluster_20,entity_unknown,1,1,1.0,1.0
+며칠뒤,cluster_20,entity_unknown,1,1,1.0,1.0
+며칠뒤 배송,cluster_20,entity_unknown,1,1,1.0,1.0
+며칠뒤 배송 기다리는데,cluster_1,entity_unknown,1,1,1.0,1.0
+명성왕족발이랑 비교해봐야겠다,cluster_1,entity_unknown,1,1,1.0,1.0
+미금역 근처 정형외과,cluster_1,entity_unknown,1,1,1.0,1.0
+미금점 영업,cluster_1,entity_unknown,1,1,1.0,1.0
+민생지원금 성남 할머니,cluster_2,entity_unknown,1,1,1.0,1.0
+바삭하니,cluster_1,entity_unknown,1,1,1.0,1.0
+받으러,cluster_1,entity_unknown,1,1,1.0,1.0
+받으러 오라고,cluster_1,entity_unknown,1,1,1.0,1.0
+발가락,cluster_5,entity_unknown,1,1,1.0,1.0
+배달 한시간,cluster_0,entity_unknown,1,1,1.0,1.0
+배달앱,cluster_41,entity_unknown,1,1,1.0,1.0
+배달앱 멕시칸,cluster_26,entity_unknown,1,1,1.0,1.0
+배민,cluster_1,entity_unknown,1,1,1.0,1.0
+배송,cluster_3,entity_unknown,1,1,1.0,1.0
+배송 기다리는데,cluster_1,entity_unknown,1,1,1.0,1.0
+버스 기다리는데,cluster_42,entity_unknown,1,1,1.0,1.0
+버스들,cluster_9,entity_unknown,1,1,1.0,1.0
+버스들 전력 질주,cluster_9,entity_unknown,1,1,1.0,1.0
+보지,cluster_1,entity_unknown,1,1,1.0,1.0
+봐달라고,cluster_1,entity_unknown,1,1,1.0,1.0
+부모님,cluster_24,entity_unknown,1,1,1.0,1.0
+부모님 하나은행 인터넷,cluster_35,entity_unknown,1,1,1.0,1.0
+부스러기,cluster_1,entity_unknown,1,1,1.0,1.0
+부위,cluster_1,entity_unknown,1,1,1.0,1.0
+부침가루,cluster_7,entity_unknown,1,1,1.0,1.0
+비급여,cluster_3,entity_unknown,1,1,1.0,1.0
+비급여 10,cluster_28,entity_unknown,1,1,1.0,1.0
+사거리에,cluster_1,entity_unknown,1,1,1.0,1.0
+사거리에 좌회전,cluster_6,entity_unknown,1,1,1.0,1.0
+사거리에 좌회전 신호,cluster_6,entity_unknown,1,1,1.0,1.0
+사는걸,cluster_1,entity_unknown,1,1,1.0,1.0
+사먹던지,cluster_1,entity_unknown,1,1,1.0,1.0
+사면 20,cluster_22,entity_unknown,1,1,1.0,1.0
+세일한다기,cluster_1,entity_unknown,1,1,1.0,1.0
+속초,cluster_1,entity_unknown,1,1,1.0,1.0
+속초 시장 구경하고,cluster_1,entity_unknown,1,1,1.0,1.0
+시키고,cluster_1,entity_unknown,1,1,1.0,1.0
+시키고 하나,cluster_1,entity_unknown,1,1,1.0,1.0
+시키고 하나 받으러,cluster_1,entity_unknown,1,1,1.0,1.0
+신호,cluster_44,entity_unknown,1,1,1.0,1.0
+신호 놓치지,cluster_1,entity_unknown,1,1,1.0,1.0
+신호 놓치지 않으려는지,cluster_1,entity_unknown,1,1,1.0,1.0
+아파서,cluster_1,entity_unknown,1,1,1.0,1.0
+아파서 동네 정형외과,cluster_1,entity_unknown,1,1,1.0,1.0
+안된다고,cluster_1,entity_unknown,1,1,1.0,1.0
+안된다고 봐달라고,cluster_1,entity_unknown,1,1,1.0,1.0
+않는데 이상해 전화해서,cluster_1,entity_unknown,1,1,1.0,1.0
+않으려는지,cluster_1,entity_unknown,1,1,1.0,1.0
+않으려는지 버스들,cluster_42,entity_unknown,1,1,1.0,1.0
+어이,cluster_1,entity_unknown,1,1,1.0,1.0
+언제부터인,cluster_1,entity_unknown,1,1,1.0,1.0
+얼떨결,cluster_1,entity_unknown,1,1,1.0,1.0
+에어프라이,cluster_1,entity_unknown,1,1,1.0,1.0
+영업,cluster_1,entity_unknown,1,1,1.0,1.0
+영업 하지 않는다,cluster_1,entity_unknown,1,1,1.0,1.0
+예전 땡겨요,cluster_1,entity_unknown,1,1,1.0,1.0
+예전 땡겨요 세일하길래,cluster_1,entity_unknown,1,1,1.0,1.0
+왓더핫,cluster_1,entity_unknown,1,1,1.0,1.0
+이마트앞,cluster_1,entity_unknown,1,1,1.0,1.0
+이마트앞 사거리에,cluster_1,entity_unknown,1,1,1.0,1.0
+이마트앞 사거리에 좌회전,cluster_1,entity_unknown,1,1,1.0,1.0
+인터넷,cluster_35,entity_unknown,1,1,1.0,1.0
+인터넷 뱅킹 안된다고,cluster_1,entity_unknown,1,1,1.0,1.0
+재고,cluster_1,entity_unknown,1,1,1.0,1.0
+재고 없다고,cluster_32,entity_unknown,1,1,1.0,1.0
+저렴해,cluster_1,entity_unknown,1,1,1.0,1.0
+전집,cluster_1,entity_unknown,1,1,1.0,1.0
+접속,cluster_1,entity_unknown,1,1,1.0,1.0
+정형,cluster_1,PER,1,1,1.0,1.0
+정형외과 갔다,cluster_1,entity_unknown,1,1,1.0,1.0
+좌회전,cluster_6,entity_unknown,1,1,1.0,1.0
+좌회전 신호,cluster_6,entity_unknown,1,1,1.0,1.0
+좌회전 신호 놓치지,cluster_1,entity_unknown,1,1,1.0,1.0
+주문가,cluster_1,entity_unknown,1,1,1.0,1.0
+주문가 가장 저렴해,cluster_1,entity_unknown,1,1,1.0,1.0
+주문하려했더니,cluster_1,entity_unknown,1,1,1.0,1.0
+주문하려했더니 미금점 영업,cluster_1,entity_unknown,1,1,1.0,1.0
+주문했더니 배달 한시간,cluster_1,entity_unknown,1,1,1.0,1.0
+지점중,cluster_1,entity_unknown,1,1,1.0,1.0
+질주,cluster_1,entity_unknown,1,1,1.0,1.0
+치약,cluster_7,entity_unknown,1,1,1.0,1.0
+치약이었다,cluster_1,entity_unknown,1,1,1.0,1.0
+콜라 보냈다,cluster_1,entity_unknown,1,1,1.0,1.0
+퍽퍽한것,cluster_1,entity_unknown,1,1,1.0,1.0
+포기하고,cluster_1,entity_unknown,1,1,1.0,1.0
+풀무원,cluster_1,entity_unknown,1,1,1.0,1.0
+하나,cluster_1,entity_unknown,1,1,1.0,1.0
+하나 받으러,cluster_1,entity_unknown,1,1,1.0,1.0
+하나 받으러 오라고,cluster_1,entity_unknown,1,1,1.0,1.0
+한셋트,cluster_8,entity_unknown,1,1,1.0,1.0
+한셋트 치약이었다,cluster_1,entity_unknown,1,1,1.0,1.0
+할인한다기 주문하려했더니,cluster_1,entity_unknown,1,1,1.0,1.0
+홈플러스,cluster_21,entity_unknown,1,1,1.0,1.0
