@@ -1,0 +1,107 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources<< /Font<< /F1 4 0 R >> >> /Contents 5 0 R >>endobj
+4 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+5 0 obj<< /Length 2681 >>stream
+BT
+/F1 11 Tf
+50 760 Td
+(Review Analysis Project Recap) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Scope) Tj
+0 -14 Td
+(- Goal: open-ended review analysis that discovers evaluable entities from text and ranks) Tj
+0 -14 Td
+(them by aggregated sentiment.) Tj
+0 -14 Td
+(- Data: reviews in reviews.csv; outputs saved to entity_stats.csv.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Environment setup) Tj
+0 -14 Td
+(- GitHub CLI was missing; installed locally at /home/lbk/.local/bin/gh. Repo cloned via) Tj
+0 -14 Td
+(git.) Tj
+0 -14 Td
+(- Poetry installed and used for dependency management.) Tj
+0 -14 Td
+(- Poetry keyring disabled to avoid DBus errors: poetry config keyring.enabled false.) Tj
+0 -14 Td
+(- pyproject.toml updated with deps for notebook \(jupyterlab, ipykernel, pandas, numpy,) Tj
+0 -14 Td
+(transformers, sentence-transformers, scikit-learn, yake, torch\).) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Notebook changes \(entity_sentiment_discovery.ipynb\)) Tj
+0 -14 Td
+(- Entity extraction is open-ended \(no fixed categories\).) Tj
+0 -14 Td
+(- Added NER-based extraction using Davlan/bert-base-multilingual-cased-ner-hrl.) Tj
+0 -14 Td
+(- Added regex extraction for numeric entities \(e.g., “버스 51”, “51번 버스”\).) Tj
+0 -14 Td
+(- YAKE still used for keyphrases; all sources are merged and lightly filtered.) Tj
+0 -14 Td
+(- Low-confidence NER mentions are tagged as entity_unknown instead of dropped.) Tj
+0 -14 Td
+(- Sentiment is computed at the entity-mention level using the sentence that contains the) Tj
+0 -14 Td
+(entity.) Tj
+0 -14 Td
+(- Entities are clustered by embedding similarity for grouping, but ranking is per-entity.) Tj
+0 -14 Td
+(- entity_stats.csv now includes entity_tag and entity_cluster columns.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Issues addressed) Tj
+0 -14 Td
+(- “치킨” missing: normalized extraction and added recall improvements \(now open-ended\).) Tj
+0 -14 Td
+(- Meaningless clusters: removed forced category clustering; cluster is just for grouping.) Tj
+0 -14 Td
+(- Needed entity-level sentiment: now uses sentence-level context per mention.) Tj
+0 -14 Td
+(- VS Code showing old notebook: reopen file, restart kernel, select Poetry interpreter.) Tj
+0 -14 Td
+(- Syntax error in cell 5 fixed \(regex string for sentence split\).) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(How to run) Tj
+0 -14 Td
+(- poetry shell) Tj
+0 -14 Td
+(- Open entity_sentiment_discovery.ipynb in VS Code, pick the Poetry kernel, Restart + Run) Tj
+0 -14 Td
+(All.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Open tasks / knobs) Tj
+0 -14 Td
+(- Adjust NER confidence threshold \(default 0.70\) if recall/precision needs tuning.) Tj
+0 -14 Td
+(- Tune YAKE top-k or filtering if too much noise or missing entities.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000233 00000 n 
+0000000301 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+3032
+%%EOF
